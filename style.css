@@ -1,0 +1,72 @@
+<style>
+        /* Margin and Padding */
+        /* Margin is from outside and Padding is from inside  */
+        /* TOP RIGHT BOTTOM and left */
+        /* p{
+            border: 5px solid red ;
+            padding: 50px 10px 10px;
+        }
+        .container{
+            margin-top:50px;
+            height: 50px;
+            width: 150px;
+        }
+        .container:hover{
+            background-color: yellow;
+        } */
+        /* li{
+            list-style-type: upper-roman;
+        } */
+        /* .Box1{
+            height: 250px;
+            width: 250px;
+            border: 2px solid black;
+            border-radius: 16px;
+            background-color: #808080;
+            position: sticky;
+        }
+        .Box2{
+            height: 250px;
+            width: 250px;
+            border: 2px solid black;
+            border-radius: 16px;
+            position: sticky;
+        } */
+        li{
+            border: 1px solid grey;
+            height: 70px;
+            width: 50px;
+            float: bottom;
+        }
+
+
+body{
+    background-color: rgb(194, 194, 211);
+}
+
+h1{
+    display: inline;
+}
+
+button{
+    
+    border-radius: 20px;
+    border: 2px solid black;    
+    font-size: 100%;
+    font-weight: 300;
+    padding: 2px;
+    
+    
+    
+    
+}
+
+ul{
+    list-style: none;
+}
+/* button:hover{
+    background-color: aqua;
+    text-align: center;
+    
+} */
+    </style>
