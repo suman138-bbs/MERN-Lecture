@@ -77,3 +77,22 @@ The `<a>` (anchor) tag in HTML is used to create hyperlinks, allowing users to n
     </form>
 </body>
 </html>
+cd : change directory
+
+touch example.txt
+
+mkdir
+
+ls : used to show the content of the current directory
+
+pwd : show the full path of current working directory
+
+ ls -la : show all file including hiden file
+
+
+
+
+
+
+
+
