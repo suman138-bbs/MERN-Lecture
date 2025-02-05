@@ -89,6 +89,25 @@ pwd : show the full path of current working directory
 
  ls -la : show all file including hiden file
 
+<!-- Work flow -->
+
+ modified --> staged = track --> commited = like a save
+
+
+
+ <!-- git restore --stage index.html -->
+
+ <!-- git checkout -b feature/lesson -->
+
+ <!-- git checkout main -->
+
+ <!-- git branch feature/lesson2 -->
+
+ <!-- git push -u origin feature/lesson -->
+
+ <!-- git config --global user.name "Your Name"
+git config --global user.email "your-email@example.com" -->
+
 
 
 
